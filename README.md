@@ -28,7 +28,7 @@ _Real Component Screenshot_
 
 ### Links
 
-- Live Site URL: [Add live site URL here](bryxncomponent.netlify.app)
+- Live Site URL: (bryxncomponent.netlify.app)
 
 ## My process
 
