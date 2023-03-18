@@ -1,0 +1,26 @@
+/* Screens below 544px */
+
+@media (max-width: 34em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  .container {
+    margin: 0;
+  }
+
+  .result-summary-com {
+    grid-template-columns: 1fr;
+    min-width: 25rem;
+  }
+
+  .result-side {
+    border-radius: 45px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+
+  .summary-side {
+    box-shadow: none;
+  }
+}
