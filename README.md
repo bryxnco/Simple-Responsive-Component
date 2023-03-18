@@ -22,7 +22,7 @@ A simple and nice component which allow the user to view and check a detailed ov
 
 ### Screenshot
 
-![](https://drive.google.com/file/d/1_-Mhezj1-F_ZKQzcv-Z56nMk9AM2bqbZ/view?usp=share_link)
+![Component Screenshot](component-screenshot.jpeg)
 
 _Real Component Screenshot_
 
