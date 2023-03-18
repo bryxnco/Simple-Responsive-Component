@@ -14,7 +14,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -79,7 +78,7 @@ I used some simple but effective media query in order to make the component resp
 }
 ```
 
-For the summary side of the component i sed both flexbox and grid for laying out the content.
+For the summary side of the component i used both flexbox and grid for laying out the content.
 
 In the detailed overview of results i used an ul element with li instead of just using nested divs in order to make the layout more semantic.
 
