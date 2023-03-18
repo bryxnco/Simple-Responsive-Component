@@ -22,14 +22,13 @@ A simple and nice component which allow the user to view and check a detailed ov
 
 ### Screenshot
 
-![](./component-screenshot.jpeg)
+![](https://drive.google.com/file/d/1_-Mhezj1-F_ZKQzcv-Z56nMk9AM2bqbZ/view?usp=share_link)
 
 _Real Component Screenshot_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](bryxncomponent.netlify.app)
 
 ## My process
 
